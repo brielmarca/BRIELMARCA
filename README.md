@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Gabriel Marca
 
-<!--
-**brielmarca/BRIELMARCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Developer focused on **Java backend development**, with experience in **Spring Boot, REST APIs, SQL, and PHP**. I enjoy building backend solutions with clean logic, clear structure, and a focus on scalability.
 
-Here are some ideas to get you started:
+I am comfortable working in **remote environments** and familiar with **Agile (Scrum) methodologies**, version control, and collaborative development workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, PHP, Python, C#, C++  
+- **Frameworks:** Spring Boot  
+- **Databases:** SQL  
+- **Backend:** REST APIs  
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code  
+
+---
+
+## 🚀 What I'm focusing on
+
+- Java backend development with Spring Boot  
+- Building and consuming RESTful APIs  
+- Improving code organization and backend logic  
+- Learning through practical projects and continuous improvement  
+
+---
+
+## 🌍 Work Preference
+
+- **Remote only**
+
+---
+
+## 🌐 Languages
+
+- Portuguese  
+- English  
+- Spanish  
+- Italian  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/brielmarca

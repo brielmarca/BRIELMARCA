@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Marca
 
-Junior Backend Developer focused on **Java backend development**, with experience in **Spring Boot, REST APIs, SQL, and PHP**. I enjoy building backend solutions with clean logic, clear structure, and a focus on scalability.
+ Backend Developer focused on **Java backend development**, with experience in **Spring Boot, REST APIs, SQL, and PHP**. I enjoy building backend solutions with clean logic, clear structure, and a focus on scalability.
 
 I am comfortable working in **remote environments** and familiar with **Agile (Scrum) methodologies**, version control, and collaborative development workflows.
 

@@ -42,4 +42,5 @@ I am comfortable working in **remote environments** and familiar with **Agile (S
 
 ## 📫 Contact
 
-- GitHub: https://github.com/brielmarca
+- GitHub: https://github.com/brielmarca  
+- Email: **brielmarcacontact@gmail.com**

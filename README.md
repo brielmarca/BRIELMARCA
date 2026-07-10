@@ -1,43 +1,54 @@
 # Gabriel Marca
 
-Full-Stack Developer from Brazil.
+I'm a Full-Stack Developer focused on building complete, secure and production-ready web solutions for real businesses.
 
-I build real web systems for businesses. Not only landing pages, and not only small projects made to study.
+I work across the full software development lifecycle, from understanding the business and planning the project to frontend, backend, database modeling, deployment and maintenance.
 
-I work with Java, Spring Boot, React, TypeScript, PostgreSQL, Docker, Linux, Cloudflare and VPS deploy.
+I build websites, MVPs, CRUD applications, management platforms, admin dashboards, authentication systems, payment gateway integrations and custom REST APIs.
 
-But I don’t like to list technologies like they are just names on a profile. For me, the important part is what I can build with them.
+On the frontend, I create responsive and user-friendly interfaces. On the backend, I build business logic, integrations and secure application structures.
 
-With Java and Spring Boot, I build backend systems with APIs, authentication, roles, permissions, database, business rules and security checks.
+## Main stack
 
-With React and TypeScript, I build frontend apps connected to real backend flows, like admin areas, dashboards, client areas, forms and protected pages.
+Java, Spring Boot, React, JavaScript, TypeScript, PostgreSQL, MySQL, Docker and Linux.
 
-I also work with deploy, servers, environment variables, HTTPS, logs and production setup. A project is not finished only because it works on my computer.
+I also have experience with Python, C, C++, C#, MongoDB, MariaDB, Redis and other technologies, choosing the right tools based on what each project needs.
 
-Right now I am building systems for real companies and creating my own software development operation.
+## What I build
 
-I learned a lot by myself, and I use AI as part of my workflow. Not to copy and paste without understanding, but to move faster, test ideas, review architecture and improve the project with more context.
+- Business websites and landing pages
+- MVPs and full-stack web applications
+- CRUD systems and management platforms
+- Admin dashboards and client areas
+- Authentication systems and protected routes
+- Payment gateway integrations
+- Custom REST APIs
+- Production-ready deployments
 
-My focus is simple: build software that works in real life, not only in a demo.
+## Security and production
 
-## What I work with
+Security is an important part of how I build software.
 
-- Backend systems with Java and Spring Boot
-- Frontend apps with React and TypeScript
-- REST APIs, authentication and protected routes
-- PostgreSQL, Supabase and database structure
-- Docker, Linux, Cloudflare and VPS deploy
-- Security review, documentation and maintenance planning
+I work with JWT authentication, role-based access control, CORS policies, rate limiting, environment variables and secure handling of credentials, secrets and API keys.
 
-## Current projects
+I also manage production infrastructure, including VPS environments, Linux servers, Docker containers, Nginx, Cloudflare, SSL certificates, DNS configuration, domains and application deployments.
 
-- A complete gym management system for a martial arts academy
-- A premium institutional website for a finance company
-- Personal tools and experiments around Linux, automation and AI-assisted development
+For me, a project is not finished only because it works locally. It needs to run, stay organized and be maintainable in production.
+
+## How I work
+
+I use Git and GitHub for version control and follow structured development workflows.
+
+I care about clean code, layered architecture, problem-solving, maintainable software design and clear documentation.
+
+Alongside my work as a developer, I also mentor programming students in software development fundamentals, frontend, backend, databases, Linux, development environments and AI-assisted development.
 
 ## Languages
 
-Portuguese, English, Spanish and Italian.
+Portuguese: Native  
+English: Fluent / professional working proficiency  
+Spanish: Improving  
+Italian: Improving
 
 ## Contact
 

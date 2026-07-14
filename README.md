@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gabriel Marca 👋</h1>
+<h1 align="center">Hi, I'm Gabriel Marca </h1>
 <h3 align="center">Full-Stack Developer | Java & Spring Boot | Production-ready web solutions</h3>
 
 <p align="center">

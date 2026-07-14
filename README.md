@@ -1,4 +1,13 @@
-# Gabriel Marca
+<h1 align="center">Hi, I'm Gabriel Marca 👋</h1>
+<h3 align="center">Full-Stack Developer | Java & Spring Boot | Production-ready web solutions</h3>
+
+<p align="center">
+  <a href="mailto:brielmarcacontact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/brielmarca"><img src="https://img.shields.io/badge/GitHub-brielmarca-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=brielmarca&style=for-the-badge&color=6f42c1" alt="Profile views" />
+</p>
+
+## About me
 
 I'm a Full-Stack Developer focused on building complete, secure and production-ready web solutions for real businesses.
 
@@ -6,13 +15,30 @@ I work across the full software development lifecycle, from understanding the bu
 
 I build websites, MVPs, CRUD applications, management platforms, admin dashboards, authentication systems, payment gateway integrations and custom REST APIs.
 
-On the frontend, I create responsive and user-friendly interfaces. On the backend, I build business logic, integrations and secure application structures.
+## Main technologies
 
-## Main stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,tailwind,python,cpp,postgres,mysql,mongodb,redis,docker,git,github,linux,nginx,cloudflare,maven,gradle,vscode,idea,postman&perline=9" alt="Technology icons" />
+</p>
 
-Java, Spring Boot, React, JavaScript, TypeScript, PostgreSQL, MySQL, Docker and Linux.
+## Backend, infrastructure and security
 
-I also have experience with Python, C, C++, C#, MongoDB, MariaDB, Redis and other technologies, choosing the right tools based on what each project needs.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Auth-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/TLS-1.3-0052CC?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="TLS 1.3" />
+  <img src="https://img.shields.io/badge/SSL-Secure-00A98F?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-Servers-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Cloudflare-DNS%20%26%20Security-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+I work with JWT authentication, role-based access control, CORS policies, rate limiting, environment variables and secure handling of credentials, secrets and API keys.
+
+I also manage production infrastructure, including VPS environments, Linux servers, Docker containers, Nginx, Cloudflare, TLS/SSL certificates, DNS configuration, domains and application deployments.
 
 ## What I build
 
@@ -25,15 +51,20 @@ I also have experience with Python, C, C++, C#, MongoDB, MariaDB, Redis and othe
 - Custom REST APIs
 - Production-ready deployments
 
-## Security and production
+## GitHub statistics
 
-Security is an important part of how I build software.
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=brielmarca&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gabriel's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielmarca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+</p>
 
-I work with JWT authentication, role-based access control, CORS policies, rate limiting, environment variables and secure handling of credentials, secrets and API keys.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=brielmarca&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-I also manage production infrastructure, including VPS environments, Linux servers, Docker containers, Nginx, Cloudflare, SSL certificates, DNS configuration, domains and application deployments.
-
-For me, a project is not finished only because it works locally. It needs to run, stay organized and be maintainable in production.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brielmarca&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+</p>
 
 ## How I work
 
@@ -45,12 +76,12 @@ Alongside my work as a developer, I also mentor programming students in software
 
 ## Languages
 
-Portuguese: Native  
-English: Fluent / professional working proficiency  
-Spanish: Improving  
-Italian: Improving
+- Portuguese: Native
+- English: Fluent / professional working proficiency
+- Spanish: Improving
+- Italian: Improving
 
 ## Contact
 
-GitHub: https://github.com/brielmarca  
-Email: brielmarcacontact@gmail.com
+- GitHub: [github.com/brielmarca](https://github.com/brielmarca)
+- Email: [brielmarcacontact@gmail.com](mailto:brielmarcacontact@gmail.com)

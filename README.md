@@ -2,9 +2,14 @@
 <h3 align="center">Full-Stack Developer | Java & Spring Boot | Production-ready web solutions</h3>
 
 <p align="center">
+  <a href="https://brielmarca-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-View%20Live-7C3AED?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="View Gabriel Marca's portfolio" /></a>
   <a href="mailto:brielmarcacontact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/brielmarca"><img src="https://img.shields.io/badge/GitHub-brielmarca-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=brielmarca&style=for-the-badge&color=6f42c1" alt="Profile views" />
+</p>
+
+<p align="center">
+  <strong>Live portfolio:</strong> <a href="https://brielmarca-portfolio.pages.dev">brielmarca-portfolio.pages.dev</a>
 </p>
 
 ## About me
@@ -83,5 +88,6 @@ Alongside my work as a developer, I also mentor programming students in software
 
 ## Contact
 
+- Portfolio: [brielmarca-portfolio.pages.dev](https://brielmarca-portfolio.pages.dev)
 - GitHub: [github.com/brielmarca](https://github.com/brielmarca)
 - Email: [brielmarcacontact@gmail.com](mailto:brielmarcacontact@gmail.com)

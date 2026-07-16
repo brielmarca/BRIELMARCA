@@ -1,93 +1,33 @@
-<h1 align="center">Hi, I'm Gabriel Marca </h1>
-<h3 align="center">Full-Stack Developer | Java & Spring Boot | Production-ready web solutions</h3>
+# Gabriel Marca
 
-<p align="center">
-  <a href="https://brielmarca-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-View%20Live-7C3AED?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="View Gabriel Marca's portfolio" /></a>
-  <a href="mailto:brielmarcacontact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/brielmarca"><img src="https://img.shields.io/badge/GitHub-brielmarca-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=brielmarca&style=for-the-badge&color=6f42c1" alt="Profile views" />
-</p>
+Full-stack developer focused on Java, Spring Boot, React and production-ready web applications.
 
-<p align="center">
-  <strong>Live portfolio:</strong> <a href="https://brielmarca-portfolio.pages.dev">brielmarca-portfolio.pages.dev</a>
-</p>
+I build software from the user interface to deployment, with particular attention to API design, authentication, data modeling, security and maintainable code. My recent work includes a live management platform for a martial arts academy, a financial-services website and an experimental local AI assistant for Linux.
 
-## About me
+## Featured projects
 
-I'm a Full-Stack Developer focused on building complete, secure and production-ready web solutions for real businesses.
+| Project | What it demonstrates | Links |
+| --- | --- | --- |
+| **4Four Fight** | Full-stack academy management platform with role-based access, student and administrative areas, payments and production deployment. | [Live application](https://4fourfight.com/) · [Repository](https://github.com/brielmarca/fourfight-gym-system) |
+| **Norad Capital** | Responsive institutional website for a Brazilian financial company, built with React, TypeScript and accessible UI practices. | [Preview](https://norad-capital-site.pages.dev/) · [Repository](https://github.com/brielmarca/Projeto_Norad_Capital.site) |
+| **Jarvis Linux Assistant** | Local-first AI assistant with a desktop interface, agents, semantic memory, voice integrations and system automation. | [Repository](https://github.com/brielmarca/jarvis-linux-assistant) |
+| **Developer Portfolio** | Multilingual portfolio built with Next.js, TypeScript and Tailwind CSS. | [Live site](https://brielmarca-portfolio.pages.dev/) · [Repository](https://github.com/brielmarca/gabriel-marca-portfolio) |
 
-I work across the full software development lifecycle, from understanding the business and planning the project to frontend, backend, database modeling, deployment and maintenance.
+## Core stack
 
-I build websites, MVPs, CRUD applications, management platforms, admin dashboards, authentication systems, payment gateway integrations and custom REST APIs.
-
-## Main technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,tailwind,python,cpp,postgres,mysql,mongodb,redis,docker,git,github,linux,nginx,cloudflare,maven,gradle,vscode,idea,postman&perline=9" alt="Technology icons" />
-</p>
-
-## Backend, infrastructure and security
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Auth-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/TLS-1.3-0052CC?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="TLS 1.3" />
-  <img src="https://img.shields.io/badge/SSL-Secure-00A98F?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-Servers-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Cloudflare-DNS%20%26%20Security-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-</p>
-
-I work with JWT authentication, role-based access control, CORS policies, rate limiting, environment variables and secure handling of credentials, secrets and API keys.
-
-I also manage production infrastructure, including VPS environments, Linux servers, Docker containers, Nginx, Cloudflare, TLS/SSL certificates, DNS configuration, domains and application deployments.
-
-## What I build
-
-- Business websites and landing pages
-- MVPs and full-stack web applications
-- CRUD systems and management platforms
-- Admin dashboards and client areas
-- Authentication systems and protected routes
-- Payment gateway integrations
-- Custom REST APIs
-- Production-ready deployments
-
-## GitHub statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=brielmarca&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gabriel's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielmarca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=brielmarca&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brielmarca&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-</p>
+- **Back end:** Java, Spring Boot, REST APIs, JWT and PostgreSQL
+- **Front end:** React, Next.js, TypeScript, JavaScript and Tailwind CSS
+- **Delivery:** Docker, Linux, Nginx, Cloudflare and CI/CD
+- **Current studies:** applied AI, Azure and software architecture
 
 ## How I work
 
-I use Git and GitHub for version control and follow structured development workflows.
-
-I care about clean code, layered architecture, problem-solving, maintainable software design and clear documentation.
-
-Alongside my work as a developer, I also mentor programming students in software development fundamentals, frontend, backend, databases, Linux, development environments and AI-assisted development.
-
-## Languages
-
-- Portuguese: Native
-- English: Fluent / professional working proficiency
-- Spanish: Improving
-- Italian: Improving
+I value clear requirements, incremental delivery, secure defaults and documentation that helps another developer understand the project. Alongside product development, I mentor programming students and turn technical concepts into practical examples.
 
 ## Contact
 
-- Portfolio: [brielmarca-portfolio.pages.dev](https://brielmarca-portfolio.pages.dev)
-- GitHub: [github.com/brielmarca](https://github.com/brielmarca)
-- Email: [brielmarcacontact@gmail.com](mailto:brielmarcacontact@gmail.com)
+- [Portfolio](https://brielmarca-portfolio.pages.dev/)
+- [LinkedIn](https://www.linkedin.com/in/gabrielmarca/)
+- [Email](mailto:brielmarcacontact@gmail.com)
+
+Portuguese (native) · English (professional) · Spanish (professional)

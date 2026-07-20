@@ -56,20 +56,6 @@ I also manage production infrastructure, including VPS environments, Linux serve
 - Custom REST APIs
 - Production-ready deployments
 
-## GitHub statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=brielmarca&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gabriel's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielmarca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=brielmarca&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brielmarca&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-</p>
 
 ## How I work
 

@@ -56,6 +56,9 @@ I also manage production infrastructure, including VPS environments, Linux serve
 - Custom REST APIs
 - Production-ready deployments
 
+## Current focus
+
+Currently improving production-grade Java and Spring Boot systems, React interfaces, security, deployment automation and cloud infrastructure.
 
 ## How I work
 
